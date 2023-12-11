@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998324709715",
+    "project_id": "auf-cea-test",
+    "storage_bucket": "auf-cea-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998324709715:android:f6a73c234a76493a3ed9a6",
+        "android_client_info": {
+          "package_name": "ph.edu.auf.firebaselesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUx722LusbM-7erqxF6B_NVRpgWT5HOGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
